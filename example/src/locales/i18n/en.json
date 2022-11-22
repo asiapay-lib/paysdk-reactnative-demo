@@ -1,0 +1,21 @@
+{
+    "home": {
+      "lblResult": "Result",
+      "lblLanguage": "Language",
+      "lblAlipayHK": "Alipay HK",
+      "lblAlipayGlobal": "Alipay Global",
+      "lblOctopus": "Octopus",
+      "lblWechat": "Wechat",
+      "lblCreditCard": "Credit Card",
+      "lblUnionpay": "Unionpay",
+      "lblSamsungpay": "Samsungpay",
+      "lblPayme": "Payme",
+      "lblFPS": "FPS",
+      "lblHostedCall": "Hosted Call",
+      "lblGooglePay": "Google Pay",
+      "lblApplePay": "Apple Pay",
+      "lblEnglish": "English",
+      "lblTradChinese": "Traditional Chinese",
+      "lblSimpChinese": "Simplified Chinese"
+    }
+  }

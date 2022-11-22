@@ -1,0 +1,21 @@
+{
+    "home": {
+      "lblResult": "結果",
+      "lblLanguage": "語言",
+      "lblAlipayHK": "支付寶(香港)",
+      "lblAlipayGlobal": "支付寶",
+      "lblOctopus": "八達通",
+      "lblWechat": "微信支付",
+      "lblCreditCard": "信用卡",
+      "lblUnionpay": "Unionpay",
+      "lblSamsungpay": "Samsung Pay",
+      "lblPayme": "Payme",
+      "lblFPS": "FPS",
+      "lblHostedCall": "Hosted Call",
+      "lblGooglePay": "Google Pay",
+      "lblApplePay": "Apple Pay",
+      "lblEnglish": "英文",
+      "lblTradChinese": "繁體中文",
+      "lblSimpChinese": "簡體中文"
+    }
+  }
